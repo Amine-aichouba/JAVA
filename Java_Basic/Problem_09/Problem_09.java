@@ -1,6 +1,6 @@
-//17
 
-package JAVA.Java_Basic ;
+
+package JAVA.Java_Basic.Problem_09 ;
 
 import java.util.Scanner ;
 

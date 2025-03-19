@@ -1,6 +1,6 @@
-//03
 
-package JAVA.Java_Basic ;
+
+package JAVA.Java_Basic.Problem_03 ;
 
 public class Problem_03 
 {

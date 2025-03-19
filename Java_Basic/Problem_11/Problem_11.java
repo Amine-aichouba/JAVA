@@ -1,6 +1,6 @@
-//20
 
-package JAVA.Java_Basic ;
+
+package JAVA.Java_Basic.Problem_11 ;
 
 import java.util.Scanner ;
 
